@@ -1,0 +1,9 @@
+C:\Users\user\documents\visual studio 2012\Projects\Imagehw1\bin\Release\Imagehw1.exe.config
+C:\Users\user\documents\visual studio 2012\Projects\Imagehw1\bin\Release\Imagehw1.exe
+C:\Users\user\documents\visual studio 2012\Projects\Imagehw1\bin\Release\Imagehw1.pdb
+C:\Users\user\documents\visual studio 2012\Projects\Imagehw1\obj\Release\Imagehw1.Form1.resources
+C:\Users\user\documents\visual studio 2012\Projects\Imagehw1\obj\Release\Imagehw1.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2012\Projects\Imagehw1\obj\Release\Imagehw1.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2012\Projects\Imagehw1\obj\Release\Imagehw1.exe
+C:\Users\user\documents\visual studio 2012\Projects\Imagehw1\obj\Release\Imagehw1.pdb
+C:\Users\user\documents\visual studio 2012\Projects\Imagehw1\obj\Release\Imagehw1.csprojResolveAssemblyReference.cache
